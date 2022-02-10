@@ -1,0 +1,8 @@
+-- open source,oops
+JRE- java runtime environment
+JDK- java development kit
+
+
+java code --> compile --> class File -->system
+
+IDE- intellij,sts
